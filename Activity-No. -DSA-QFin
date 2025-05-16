@@ -1,0 +1,49 @@
+A. Discuss the following:
+
+//What is Big-O Notation in DSA and Identify its key concepts.
+
+*Big-O notation is concept in discrete structures and algorithms (DSA) used to measure the efficiency of an algorithm is resolving a problem.
+this provides that the upper bound to the number of operations that the algorithm needs to do based on the size of the input.
+the key concepts of Big-O notation are the references to the largest factor affecting the runtime of the algorithm, being independent of constant factors, and being the worst-case 
+scenario of the algorithm performance. Through big-o notation, it is easier to analyze and compare algorithms in their efficiency and performance.
+its also important in designing algorithms to ensure that they will be effecient and effective in resolving computational problems.
+
+//Discuss the concept of Time Complexity and Space Complexity with Big-O Notation in DSA
+
+*The concept of time complexity and space complexity is essential to the design and analysis of algorithm (DSA) to measure the effectiveness and impact of an algorithm on data processing.
+Time complexity refers to the amount of time an algorithm is required to finish an operation based on input size. As result, space complexity refers to the amount of memory space 
+required by algorithm to complete an operation based on input size.Big-O notation is a way of determining the time complexity and space complexity of an algorithm at the worst or highest
+time or memory space it required.By big-o notation, we can demostrate the effectivenesss or ineffectiveness of an algorithm in data processing. For example, if the time complexity of an algorithm is O (N),
+its means the time it requires is linear in the input size.
+In this way, understanding time complexity and space complexity in DSA is important to ensure that the algorithms we use are effective and reliable in data processing. By using Big-O notation,
+we can demostrate the effectiveness of a data processing algorithm and we can form our decision by choosing the right algorithm for a particular problem. 
+Time complexity and space complexity are important in the development and improvement of DSA algorithms to ensure their effective use of data processing.
+
+//Determine the application of Big-O Notation on Algorithms and its importance on Algorithm Analysis.
+
+*Big-O notation is a way of determining the effectiveness of an algorithm in resolving a problem. it is a type of mathematical notation that provides a time or spaces growth limit
+required by an input data processing algorithm. By big-o notation, we can understand how fast or slow an algorithm is to respond to a particular input size.
+Big-O notation is essential to the algorithm evaluation as it provides information to us how much time o space an algorithm requires in resolving a problem.By using big-O notatuion,
+we can understand whether an algorithm is effective or not in response to a paticular input size.This will help us choose the best algorithm to use to solve a problem.
+Through big-o notation, we can also understand the difference between different types of algorithm.For example, an algorithm with big-o notation that or (n) is faster than algorithm
+with a big-o notation that or (N^2) When the input size grows. In this way, we can choose the best algorithm to be used to solve a particular problem.
+
+B. Discuss the following Practical Application of Big-O Notation
+
+//Algorithm Optimization, and Real-World Examples
+
+*Big-O notation is an important concept in computer science used to measure the efficiency and performance of an algorithm. By using big-o notation, we can understand how fast or slow
+an algorithm is to resolve a computational problem.
+One of the practical applications of big-o notation is the algorithm optimization. 
+By studying Big-O notation, we can identify which part of an algorithm can be optimized to improve its performance. 
+For example, if an algorithm has O (N^2) time complexity, we can try to reduce the number of iterations or use of nested loops to improve the efficiency of the algorithm. 
+Another practical application of big-o notation is in real-world examples.
+With the use of big-o notation, we can analyze the performance of algorithms in real-world scenarios such as data processing, network optimization, and more. 
+For example, by developing a mobile application that requires rapid data processing, it is important that we consider the big-o notation of the algorithms we will use to maintain the smooth performance of the application.
+
+https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+https://www.simplilearn.com/big-o-notation-in-data-structure-article
+https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php
+https://www.simplilearn.com/tutorials/data-structure-tutorial/time-and-space-complexity
+https://www.wscubetech.com/resources/dsa/time-complexity
